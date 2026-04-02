@@ -1,1 +1,1 @@
-# My First Project - Edited Locally
+# My First Project - Merged from local and GitHub
