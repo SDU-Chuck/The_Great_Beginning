@@ -1,2 +1,1 @@
-# My First Project
-This is a demo project for learning Git and GitHub.
+# My First Project - Edited Locally
